@@ -1,0 +1,45 @@
+body
+{
+	background-color: #999fff;
+}
+td.b
+{
+	background-color: #00008B;
+	color: #ccffff;
+	font-style:italic;
+	font-style:underline;
+}
+table.d
+{
+	border-style:dotted;
+	border-width: 10;
+}
+td.c{
+	text-align:center;
+	}
+div.t
+{
+	text-align:right;
+	border-style:solid;
+	font-size: 30px;
+	color:blue;
+	border-color:#00008B;
+}
+h1
+{
+	text-align:center;
+	font-size: 50px;
+	font-style: italic;
+	color:blue;
+}
+td.a
+{
+	background-color: #00008A;
+}
+div.i
+{
+	border-style:solid;
+	border-width:1px;
+	font-size:20px;
+	overflow:scroll;
+}
